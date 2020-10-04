@@ -1,5 +1,5 @@
 # macOS-Animation
-Script that enable or disable animation on macOS
+Script that enables or disables animations on macOS
 
 ## TODO:
 - [ ] Refactor it more nicely (make it a script).
